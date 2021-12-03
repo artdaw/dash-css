@@ -1,0 +1,29 @@
+@media screen and (min-width: 320px) {
+  html {
+    font-size: calc(
+      var(--typography-font-size-min) +
+        (var(--typography-font-size-max) - var(--typography-font-size-min)) *
+        ((100vw - 320px) / 960)
+    );
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  html {
+    font-size: var(--typography-font-size-max);
+  }
+}
+
+@media screen and (min-width: 20em) {
+  p {
+    line-height: calc(
+      var(--typography-line-height-base) + 0.6 * ((100vw - 20em) / 60)
+    );
+  }
+}
+
+@media screen and (min-width: 80em) {
+  p {
+    line-height: calc(var(--typography-line-height-base) + 0.2em);
+  }
+}

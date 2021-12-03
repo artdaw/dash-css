@@ -1,0 +1,9 @@
+/* ------- Modular scale with a ratio of 1.4 ------- */
+:root {
+  --typography-font-size-h1: 5.378em;
+  --typography-font-size-h2: 3.842em;
+  --typography-font-size-h3: 2.744em;
+  --typography-font-size-h4: 1.96em;
+  --typography-font-size-h5: 1.4em;
+  --typography-font-size-h6: 1em;
+}

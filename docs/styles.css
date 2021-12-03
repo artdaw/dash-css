@@ -1,0 +1,7 @@
+@import url(../src/theme.base.css);
+
+:root {
+  --typography-font-size-base: 12px;
+  --typography-font-size-min: 8px;
+  --typography-font-size-max: 22px;
+}

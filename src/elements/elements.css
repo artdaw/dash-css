@@ -1,0 +1,11 @@
+@import url(heading.css);
+@import url(button.css);
+@import url(responsive.css);
+
+html {
+  font-family: var(--typography-font-family-body);
+  font-size: var(--typography-font-size-base);
+  line-height: var(--typography-line-height-base);
+  font-smooth: auto;
+  -webkit-font-smoothing: auto;
+}

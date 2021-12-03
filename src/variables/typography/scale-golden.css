@@ -1,0 +1,18 @@
+/* ------- Modular scale with a golden section ratio ------- */
+/* https://grtcalculator.com */
+
+:root {
+  --typography-font-size-h1: 2.643em;
+  --typography-font-size-h2: 2.071em;
+  --typography-font-size-h3: 1.643em;
+  --typography-font-size-h4: 1.286em;
+  --typography-font-size-h5: 1em;
+  --typography-font-size-h6: 1em;
+
+  --typography-line-height-h1: 1.514em;
+  --typography-line-height-h2: 1.517em;
+  --typography-line-height-h3: 1.522em;
+  --typography-line-height-h4: 1.556em;
+  --typography-line-height-h5: 1.571em;
+  --typography-line-height-h6: 1.571em;
+}

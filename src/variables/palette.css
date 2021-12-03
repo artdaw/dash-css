@@ -1,0 +1,16 @@
+:root {
+  --palette-primary-main: #90bfe0;
+  --palette-primary-light: #c2f2ff;
+  --palette-primary-dark: #5f8fae;
+  --palette-secondary-main: #e0b09b;
+  --palette-secondary-light: #ffe2cc;
+  --palette-secondary-dark: #ad806d;
+  --palette-primary-text: #000;
+  --palette-secondary-text: #000;
+  --palette-error-light: #e57373;
+  --palette-error-main: #f44336;
+  --palette-error-dark: #d32f2f;
+  --palette-warning-light: #ffb74d;
+  --palette-warning-main: #ff9800;
+  --palette-warning-dark: #f57c00;
+}

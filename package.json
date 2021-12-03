@@ -1,0 +1,32 @@
+{
+  "name": "dash-css",
+  "version": "1.0.0",
+  "description": "Minimal CSS Framework for styling semantic HTML markup",
+  "keywords": [
+    "css",
+    "css-framework",
+    "minimal",
+    "semantic",
+    "html",
+    "dark-mode",
+    "light-mode"
+  ],
+  "main": "dist/dash.css",
+  "scripts": {
+    "lint": "stylelint src/**/*.css",
+    "lint:fix": "stylelint --fix src/**/*.css"
+  },
+  "author": "Gleb G.",
+  "license": "MIT",
+  "browserslist": [
+    "defaults"
+  ],
+  "files": [
+    "dist/*.css",
+    "LICENSE.md"
+  ],
+  "devDependencies": {
+    "stylelint": "^14.1.0",
+    "stylelint-config-standard": "^24.0.0"
+  }
+}
